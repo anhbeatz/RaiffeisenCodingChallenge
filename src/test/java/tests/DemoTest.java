@@ -2,7 +2,6 @@ package tests;
 
 import environment.EnvironmentManager;
 import main.pageObjects;
-import org.junit.After;
 import org.junit.Before;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
